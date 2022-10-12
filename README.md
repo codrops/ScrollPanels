@@ -1,4 +1,4 @@
-# Panel Scroll Effect
+# Panel Scroll Effects
 
 An exploration of smooth panel scroll effects based on [Margot Priolet's website](https://www.margotpriolet.com/).
 
